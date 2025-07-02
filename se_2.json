@@ -1,0 +1,842 @@
+[
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with C#, and participating in full-stack development using React and .NET Core. Work closely with Product Managers and follow agile practices such as Kanban.",
+    "output": {
+      "Programming Languages": [
+        "Java"
+      ],
+      "Frontend Skills": [
+        "CSS"
+      ],
+      "Backend Frameworks": [
+        ".NET Core"
+      ],
+      "Collaboration": [
+        "QA Engineers"
+      ],
+      "Agile Practices": [
+        "Kanban"
+      ],
+      "Soft Skills": [
+        "Teamwork",
+        "Time Management"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with Java, and participating in full-stack development using React and Spring Boot. Work closely with UX Designers and follow agile practices such as Retrospectives.",
+    "output": {
+      "Programming Languages": [
+        "Python"
+      ],
+      "Frontend Skills": [
+        "Vue"
+      ],
+      "Backend Frameworks": [
+        "Spring Boot"
+      ],
+      "Collaboration": [
+        "UX Designers"
+      ],
+      "Agile Practices": [
+        "Kanban"
+      ],
+      "Soft Skills": [
+        "Problem Solving",
+        "Time Management"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with JavaScript, and participating in full-stack development using CSS and Spring Boot. Work closely with Product Managers and follow agile practices such as Scrum.",
+    "output": {
+      "Programming Languages": [
+        "JavaScript"
+      ],
+      "Frontend Skills": [
+        "Vue"
+      ],
+      "Backend Frameworks": [
+        "Spring Boot"
+      ],
+      "Collaboration": [
+        "QA Engineers"
+      ],
+      "Agile Practices": [
+        "Sprint Planning"
+      ],
+      "Soft Skills": [
+        "Communication",
+        "Time Management"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with TypeScript, and participating in full-stack development using TailwindCSS and .NET Core. Work closely with UX Designers and follow agile practices such as Scrum.",
+    "output": {
+      "Programming Languages": [
+        "Python"
+      ],
+      "Frontend Skills": [
+        "Angular"
+      ],
+      "Backend Frameworks": [
+        "Express"
+      ],
+      "Collaboration": [
+        "UX Designers"
+      ],
+      "Agile Practices": [
+        "Kanban"
+      ],
+      "Soft Skills": [
+        "Teamwork",
+        "Mentorship"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with Java, and participating in full-stack development using TailwindCSS and Express. Work closely with QA Engineers and follow agile practices such as Kanban.",
+    "output": {
+      "Programming Languages": [
+        "JavaScript"
+      ],
+      "Frontend Skills": [
+        "TailwindCSS"
+      ],
+      "Backend Frameworks": [
+        ".NET Core"
+      ],
+      "Collaboration": [
+        "Product Managers"
+      ],
+      "Agile Practices": [
+        "Kanban"
+      ],
+      "Soft Skills": [
+        "Problem Solving",
+        "Mentorship"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with Python, and participating in full-stack development using TailwindCSS and Spring Boot. Work closely with QA Engineers and follow agile practices such as Retrospectives.",
+    "output": {
+      "Programming Languages": [
+        "C#"
+      ],
+      "Frontend Skills": [
+        "TailwindCSS"
+      ],
+      "Backend Frameworks": [
+        ".NET Core"
+      ],
+      "Collaboration": [
+        "DevOps Teams"
+      ],
+      "Agile Practices": [
+        "Retrospectives"
+      ],
+      "Soft Skills": [
+        "Time Management",
+        "Communication"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with Java, and participating in full-stack development using TailwindCSS and Django. Work closely with UX Designers and follow agile practices such as Retrospectives.",
+    "output": {
+      "Programming Languages": [
+        "Java"
+      ],
+      "Frontend Skills": [
+        "TailwindCSS"
+      ],
+      "Backend Frameworks": [
+        "Express"
+      ],
+      "Collaboration": [
+        "Product Managers"
+      ],
+      "Agile Practices": [
+        "Kanban"
+      ],
+      "Soft Skills": [
+        "Mentorship",
+        "Communication"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with Java, and participating in full-stack development using React and .NET Core. Work closely with QA Engineers and follow agile practices such as Kanban.",
+    "output": {
+      "Programming Languages": [
+        "Python"
+      ],
+      "Frontend Skills": [
+        "React"
+      ],
+      "Backend Frameworks": [
+        "Express"
+      ],
+      "Collaboration": [
+        "Product Managers"
+      ],
+      "Agile Practices": [
+        "Retrospectives"
+      ],
+      "Soft Skills": [
+        "Teamwork",
+        "Time Management"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with C#, and participating in full-stack development using Vue and Django. Work closely with Product Managers and follow agile practices such as Scrum.",
+    "output": {
+      "Programming Languages": [
+        "JavaScript"
+      ],
+      "Frontend Skills": [
+        "CSS"
+      ],
+      "Backend Frameworks": [
+        "Django"
+      ],
+      "Collaboration": [
+        "UX Designers"
+      ],
+      "Agile Practices": [
+        "Retrospectives"
+      ],
+      "Soft Skills": [
+        "Communication",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with TypeScript, and participating in full-stack development using Vue and Express. Work closely with UX Designers and follow agile practices such as Kanban.",
+    "output": {
+      "Programming Languages": [
+        "Java"
+      ],
+      "Frontend Skills": [
+        "React"
+      ],
+      "Backend Frameworks": [
+        "Spring Boot"
+      ],
+      "Collaboration": [
+        "DevOps Teams"
+      ],
+      "Agile Practices": [
+        "Sprint Planning"
+      ],
+      "Soft Skills": [
+        "Time Management",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with JavaScript, and participating in full-stack development using Angular and Spring Boot. Work closely with Product Managers and follow agile practices such as Retrospectives.",
+    "output": {
+      "Programming Languages": [
+        "Java"
+      ],
+      "Frontend Skills": [
+        "Vue"
+      ],
+      "Backend Frameworks": [
+        "Django"
+      ],
+      "Collaboration": [
+        "Product Managers"
+      ],
+      "Agile Practices": [
+        "Scrum"
+      ],
+      "Soft Skills": [
+        "Teamwork",
+        "Mentorship"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with Java, and participating in full-stack development using HTML and Spring Boot. Work closely with UX Designers and follow agile practices such as Scrum.",
+    "output": {
+      "Programming Languages": [
+        "C#"
+      ],
+      "Frontend Skills": [
+        "Vue"
+      ],
+      "Backend Frameworks": [
+        "Spring Boot"
+      ],
+      "Collaboration": [
+        "Product Managers"
+      ],
+      "Agile Practices": [
+        "Retrospectives"
+      ],
+      "Soft Skills": [
+        "Communication",
+        "Time Management"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with JavaScript, and participating in full-stack development using HTML and Django. Work closely with DevOps Teams and follow agile practices such as Kanban.",
+    "output": {
+      "Programming Languages": [
+        "Python"
+      ],
+      "Frontend Skills": [
+        "React"
+      ],
+      "Backend Frameworks": [
+        "Express"
+      ],
+      "Collaboration": [
+        "Product Managers"
+      ],
+      "Agile Practices": [
+        "Scrum"
+      ],
+      "Soft Skills": [
+        "Communication",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with TypeScript, and participating in full-stack development using TailwindCSS and .NET Core. Work closely with Product Managers and follow agile practices such as Sprint Planning.",
+    "output": {
+      "Programming Languages": [
+        "JavaScript"
+      ],
+      "Frontend Skills": [
+        "CSS"
+      ],
+      "Backend Frameworks": [
+        "Django"
+      ],
+      "Collaboration": [
+        "UX Designers"
+      ],
+      "Agile Practices": [
+        "Sprint Planning"
+      ],
+      "Soft Skills": [
+        "Mentorship",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with C#, and participating in full-stack development using TailwindCSS and Django. Work closely with Product Managers and follow agile practices such as Sprint Planning.",
+    "output": {
+      "Programming Languages": [
+        "Python"
+      ],
+      "Frontend Skills": [
+        "TailwindCSS"
+      ],
+      "Backend Frameworks": [
+        "Spring Boot"
+      ],
+      "Collaboration": [
+        "QA Engineers"
+      ],
+      "Agile Practices": [
+        "Retrospectives"
+      ],
+      "Soft Skills": [
+        "Teamwork",
+        "Time Management"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with Python, and participating in full-stack development using CSS and Spring Boot. Work closely with DevOps Teams and follow agile practices such as Sprint Planning.",
+    "output": {
+      "Programming Languages": [
+        "Java"
+      ],
+      "Frontend Skills": [
+        "React"
+      ],
+      "Backend Frameworks": [
+        "Django"
+      ],
+      "Collaboration": [
+        "Product Managers"
+      ],
+      "Agile Practices": [
+        "Scrum"
+      ],
+      "Soft Skills": [
+        "Mentorship",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with Python, and participating in full-stack development using HTML and Spring Boot. Work closely with Product Managers and follow agile practices such as Scrum.",
+    "output": {
+      "Programming Languages": [
+        "C#"
+      ],
+      "Frontend Skills": [
+        "Angular"
+      ],
+      "Backend Frameworks": [
+        "Express"
+      ],
+      "Collaboration": [
+        "UX Designers"
+      ],
+      "Agile Practices": [
+        "Sprint Planning"
+      ],
+      "Soft Skills": [
+        "Problem Solving",
+        "Mentorship"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with Java, and participating in full-stack development using Angular and Express. Work closely with Product Managers and follow agile practices such as Scrum.",
+    "output": {
+      "Programming Languages": [
+        "C#"
+      ],
+      "Frontend Skills": [
+        "HTML"
+      ],
+      "Backend Frameworks": [
+        ".NET Core"
+      ],
+      "Collaboration": [
+        "DevOps Teams"
+      ],
+      "Agile Practices": [
+        "Scrum"
+      ],
+      "Soft Skills": [
+        "Teamwork",
+        "Time Management"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with Python, and participating in full-stack development using HTML and Express. Work closely with UX Designers and follow agile practices such as Retrospectives.",
+    "output": {
+      "Programming Languages": [
+        "Python"
+      ],
+      "Frontend Skills": [
+        "TailwindCSS"
+      ],
+      "Backend Frameworks": [
+        "Django"
+      ],
+      "Collaboration": [
+        "QA Engineers"
+      ],
+      "Agile Practices": [
+        "Sprint Planning"
+      ],
+      "Soft Skills": [
+        "Teamwork",
+        "Communication"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with C#, and participating in full-stack development using TailwindCSS and Spring Boot. Work closely with UX Designers and follow agile practices such as Kanban.",
+    "output": {
+      "Programming Languages": [
+        "TypeScript"
+      ],
+      "Frontend Skills": [
+        "React"
+      ],
+      "Backend Frameworks": [
+        "Django"
+      ],
+      "Collaboration": [
+        "Product Managers"
+      ],
+      "Agile Practices": [
+        "Scrum"
+      ],
+      "Soft Skills": [
+        "Problem Solving",
+        "Time Management"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with JavaScript, and participating in full-stack development using HTML and .NET Core. Work closely with Product Managers and follow agile practices such as Scrum.",
+    "output": {
+      "Programming Languages": [
+        "TypeScript"
+      ],
+      "Frontend Skills": [
+        "CSS"
+      ],
+      "Backend Frameworks": [
+        "Express"
+      ],
+      "Collaboration": [
+        "UX Designers"
+      ],
+      "Agile Practices": [
+        "Sprint Planning"
+      ],
+      "Soft Skills": [
+        "Teamwork",
+        "Communication"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with JavaScript, and participating in full-stack development using React and Django. Work closely with Product Managers and follow agile practices such as Scrum.",
+    "output": {
+      "Programming Languages": [
+        "Java"
+      ],
+      "Frontend Skills": [
+        "Angular"
+      ],
+      "Backend Frameworks": [
+        "Express"
+      ],
+      "Collaboration": [
+        "Product Managers"
+      ],
+      "Agile Practices": [
+        "Kanban"
+      ],
+      "Soft Skills": [
+        "Mentorship",
+        "Communication"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with C#, and participating in full-stack development using React and Spring Boot. Work closely with Product Managers and follow agile practices such as Retrospectives.",
+    "output": {
+      "Programming Languages": [
+        "TypeScript"
+      ],
+      "Frontend Skills": [
+        "Angular"
+      ],
+      "Backend Frameworks": [
+        "Django"
+      ],
+      "Collaboration": [
+        "Product Managers"
+      ],
+      "Agile Practices": [
+        "Retrospectives"
+      ],
+      "Soft Skills": [
+        "Time Management",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with C#, and participating in full-stack development using HTML and Express. Work closely with QA Engineers and follow agile practices such as Scrum.",
+    "output": {
+      "Programming Languages": [
+        "Python"
+      ],
+      "Frontend Skills": [
+        "React"
+      ],
+      "Backend Frameworks": [
+        "Spring Boot"
+      ],
+      "Collaboration": [
+        "DevOps Teams"
+      ],
+      "Agile Practices": [
+        "Scrum"
+      ],
+      "Soft Skills": [
+        "Time Management",
+        "Mentorship"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with C#, and participating in full-stack development using CSS and .NET Core. Work closely with QA Engineers and follow agile practices such as Scrum.",
+    "output": {
+      "Programming Languages": [
+        "JavaScript"
+      ],
+      "Frontend Skills": [
+        "TailwindCSS"
+      ],
+      "Backend Frameworks": [
+        "Django"
+      ],
+      "Collaboration": [
+        "Product Managers"
+      ],
+      "Agile Practices": [
+        "Retrospectives"
+      ],
+      "Soft Skills": [
+        "Problem Solving",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with Java, and participating in full-stack development using CSS and Express. Work closely with UX Designers and follow agile practices such as Kanban.",
+    "output": {
+      "Programming Languages": [
+        "JavaScript"
+      ],
+      "Frontend Skills": [
+        "React"
+      ],
+      "Backend Frameworks": [
+        ".NET Core"
+      ],
+      "Collaboration": [
+        "UX Designers"
+      ],
+      "Agile Practices": [
+        "Retrospectives"
+      ],
+      "Soft Skills": [
+        "Teamwork",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with JavaScript, and participating in full-stack development using React and Express. Work closely with UX Designers and follow agile practices such as Kanban.",
+    "output": {
+      "Programming Languages": [
+        "JavaScript"
+      ],
+      "Frontend Skills": [
+        "Vue"
+      ],
+      "Backend Frameworks": [
+        "Spring Boot"
+      ],
+      "Collaboration": [
+        "DevOps Teams"
+      ],
+      "Agile Practices": [
+        "Kanban"
+      ],
+      "Soft Skills": [
+        "Communication",
+        "Mentorship"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with Java, and participating in full-stack development using HTML and Spring Boot. Work closely with QA Engineers and follow agile practices such as Retrospectives.",
+    "output": {
+      "Programming Languages": [
+        "C#"
+      ],
+      "Frontend Skills": [
+        "Angular"
+      ],
+      "Backend Frameworks": [
+        "Spring Boot"
+      ],
+      "Collaboration": [
+        "Product Managers"
+      ],
+      "Agile Practices": [
+        "Scrum"
+      ],
+      "Soft Skills": [
+        "Problem Solving",
+        "Communication"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with Python, and participating in full-stack development using CSS and Django. Work closely with DevOps Teams and follow agile practices such as Retrospectives.",
+    "output": {
+      "Programming Languages": [
+        "Python"
+      ],
+      "Frontend Skills": [
+        "Vue"
+      ],
+      "Backend Frameworks": [
+        "Spring Boot"
+      ],
+      "Collaboration": [
+        "Product Managers"
+      ],
+      "Agile Practices": [
+        "Scrum"
+      ],
+      "Soft Skills": [
+        "Problem Solving",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with Python, and participating in full-stack development using React and .NET Core. Work closely with Product Managers and follow agile practices such as Retrospectives.",
+    "output": {
+      "Programming Languages": [
+        "JavaScript"
+      ],
+      "Frontend Skills": [
+        "HTML"
+      ],
+      "Backend Frameworks": [
+        "Spring Boot"
+      ],
+      "Collaboration": [
+        "DevOps Teams"
+      ],
+      "Agile Practices": [
+        "Sprint Planning"
+      ],
+      "Soft Skills": [
+        "Problem Solving",
+        "Teamwork"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with JavaScript, and participating in full-stack development using HTML and Express. Work closely with DevOps Teams and follow agile practices such as Retrospectives.",
+    "output": {
+      "Programming Languages": [
+        "C#"
+      ],
+      "Frontend Skills": [
+        "React"
+      ],
+      "Backend Frameworks": [
+        ".NET Core"
+      ],
+      "Collaboration": [
+        "UX Designers"
+      ],
+      "Agile Practices": [
+        "Retrospectives"
+      ],
+      "Soft Skills": [
+        "Communication",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with JavaScript, and participating in full-stack development using CSS and Spring Boot. Work closely with QA Engineers and follow agile practices such as Scrum.",
+    "output": {
+      "Programming Languages": [
+        "TypeScript"
+      ],
+      "Frontend Skills": [
+        "Angular"
+      ],
+      "Backend Frameworks": [
+        ".NET Core"
+      ],
+      "Collaboration": [
+        "QA Engineers"
+      ],
+      "Agile Practices": [
+        "Sprint Planning"
+      ],
+      "Soft Skills": [
+        "Communication",
+        "Time Management"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with Java, and participating in full-stack development using TailwindCSS and Django. Work closely with UX Designers and follow agile practices such as Scrum.",
+    "output": {
+      "Programming Languages": [
+        "C#"
+      ],
+      "Frontend Skills": [
+        "Angular"
+      ],
+      "Backend Frameworks": [
+        "Django"
+      ],
+      "Collaboration": [
+        "UX Designers"
+      ],
+      "Agile Practices": [
+        "Sprint Planning"
+      ],
+      "Soft Skills": [
+        "Communication",
+        "Mentorship"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with Python, and participating in full-stack development using CSS and Spring Boot. Work closely with UX Designers and follow agile practices such as Retrospectives.",
+    "output": {
+      "Programming Languages": [
+        "Python"
+      ],
+      "Frontend Skills": [
+        "Vue"
+      ],
+      "Backend Frameworks": [
+        "Express"
+      ],
+      "Collaboration": [
+        "QA Engineers"
+      ],
+      "Agile Practices": [
+        "Sprint Planning"
+      ],
+      "Soft Skills": [
+        "Communication",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: This role involves working with C#, and participating in full-stack development using HTML and .NET Core. Work closely with Product Managers and follow agile practices such as Kanban.",
+    "output": {
+      "Programming Languages": [
+        "JavaScript"
+      ],
+      "Frontend Skills": [
+        "React"
+      ],
+      "Backend Frameworks": [
+        ".NET Core"
+      ],
+      "Collaboration": [
+        "UX Designers"
+      ],
+      "Agile Practices": [
+        "Kanban"
+      ],
+      "Soft Skills": [
+        "Time Management",
+        "Mentorship"
+      ]
+    }
+  }
+]

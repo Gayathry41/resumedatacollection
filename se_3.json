@@ -1,0 +1,73 @@
+[
+  {
+    "input": "Job Title: Software Engineer\nJob Description: Engage in the full software development lifecycle, from requirement gathering to system design, implementation, testing, and deployment. Coordinate with stakeholders to meet business goals.",
+    "output": {
+      "Development Phases": [
+        "Requirements Gathering",
+        "System Design",
+        "Implementation",
+        "Testing",
+        "Deployment"
+      ],
+      "Collaboration": [
+        "Stakeholder Coordination",
+        "Business Alignment"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: Design and implement scalable backend services using Spring Boot and RESTful APIs. Optimize service response times and handle high traffic loads efficiently.",
+    "output": {
+      "Backend Development": [
+        "Spring Boot",
+        "RESTful API Design",
+        "Scalable Architecture"
+      ],
+      "Performance Optimization": [
+        "Latency Reduction",
+        "Load Management"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: Build reusable UI components with React and TypeScript. Ensure cross-browser compatibility and responsive design for various devices.",
+    "output": {
+      "Frontend Skills": [
+        "React",
+        "TypeScript",
+        "Reusable Components"
+      ],
+      "UI/UX Standards": [
+        "Cross-Browser Compatibility",
+        "Responsive Design"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: Create and maintain CI/CD pipelines using Jenkins or GitHub Actions. Ensure automated testing and deployment processes are in place and fail-safe.",
+    "output": {
+      "CI/CD Tools": [
+        "Jenkins",
+        "GitHub Actions"
+      ],
+      "Automation Tasks": [
+        "Automated Testing",
+        "Automated Deployment",
+        "Pipeline Monitoring"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: Conduct peer code reviews to ensure code quality, readability, and adherence to best practices. Provide constructive feedback to junior developers.",
+    "output": {
+      "Code Quality": [
+        "Peer Reviews",
+        "Coding Standards Enforcement"
+      ],
+      "Mentorship": [
+        "Feedback to Juniors",
+        "Knowledge Sharing"
+      ]
+    }
+  }
+]

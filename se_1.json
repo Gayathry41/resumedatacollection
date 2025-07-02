@@ -1,0 +1,74 @@
+[
+  {
+    "input": "Job Title: Software Engineer\nJob Description: Triage system issues by identifying their origin and resolving them through debugging, monitoring logs, and performance tracking. Collaborate with network and database teams to ensure high system availability.",
+    "output": {
+      "Responsibilities": [
+        "Issue Triage",
+        "Debugging",
+        "Log Monitoring",
+        "Performance Tracking",
+        "Collaboration with IT Teams"
+      ],
+      "Soft Skills": [
+        "Analytical Thinking",
+        "Problem Solving"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: Contribute to the codebase by reviewing team members’ pull requests. Maintain consistent documentation standards and ensure team coding practices align with industry standards.",
+    "output": {
+      "Responsibilities": [
+        "Code Review",
+        "Documentation",
+        "Standards Compliance"
+      ],
+      "Soft Skills": [
+        "Attention to Detail",
+        "Team Collaboration"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: Implement automated testing frameworks using tools like JUnit and Selenium. Develop test cases to verify software functionality and performance under different conditions.",
+    "output": {
+      "Testing Tools": [
+        "JUnit",
+        "Selenium"
+      ],
+      "Testing Practices": [
+        "Automated Testing",
+        "Performance Testing",
+        "Test Case Development"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: Use source control tools such as Git and GitHub to manage development cycles. Follow CI/CD pipelines for deployment and participate in regular sprint reviews.",
+    "output": {
+      "Version Control": [
+        "Git",
+        "GitHub"
+      ],
+      "DevOps": [
+        "CI/CD Pipelines",
+        "Sprint Reviews"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: Utilize cloud computing platforms for application hosting and deployment. Focus on scalability and cost efficiency using managed services and infrastructure-as-code strategies.",
+    "output": {
+      "Cloud Skills": [
+        "AWS",
+        "Azure",
+        "GCP"
+      ],
+      "Cloud Practices": [
+        "Infrastructure as Code",
+        "Scalability Planning",
+        "Managed Services Usage"
+      ]
+    }
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "input": "Job Title: Software Engineer\nJob Description: Equifax is seeking creative, high-energy and driven software engineers with hands-on development skills to work on a variety of meaningful projects. You are ideal for this position if you are a forward-thinking, committed, and enthusiastic software engineer who is passionate about technology.",
+    "output": {
+      "Job Summary": "Creative, driven software engineer to work on impactful projects with modern technologies.",
+      "Soft Skills": [
+        "Creativity",
+        "Commitment",
+        "Enthusiasm",
+        "Forward Thinking",
+        "Passion for Technology"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: Perform general application development activities including unit testing, code deployment to development environment and technical documentation. Works on one or more projects, making contributions to unfamiliar code written by team members. Participates in estimation process, use case specifications, and project planning. Diagnose and resolve performance issues.",
+    "output": {
+      "Responsibilities": [
+        "Application Development",
+        "Unit Testing",
+        "Code Deployment",
+        "Technical Documentation",
+        "Project Estimation",
+        "Performance Diagnosis"
+      ],
+      "Soft Skills": [
+        "Collaboration",
+        "Adaptability"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: Apply modern software development practices including serverless computing, microservices architecture, CI/CD, infrastructure-as-code. Work across teams to integrate with internal systems. Participate in roadmap and architecture discussions. Employ agile software development practices.",
+    "output": {
+      "Development Practices": [
+        "Serverless Computing",
+        "Microservices Architecture",
+        "CI/CD",
+        "Infrastructure as Code",
+        "Agile Methodology"
+      ],
+      "Team Activities": [
+        "Architecture Discussions",
+        "Cross-team Integration"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: 2+ years experience with Java, Python, JavaScript. Experience with build tools like Maven or Gradle. Frontend development using HTML, CSS. Experience with testing, performance, quality engineering. Cloud experience with GCP, AWS, or Azure.",
+    "output": {
+      "Programming Languages": [
+        "Java",
+        "Python",
+        "JavaScript"
+      ],
+      "Build Tools": [
+        "Maven",
+        "Gradle"
+      ],
+      "Frontend Skills": [
+        "HTML",
+        "CSS"
+      ],
+      "Testing & Quality": [
+        "Performance Testing",
+        "Software Testing"
+      ],
+      "Cloud Platforms": [
+        "GCP",
+        "AWS",
+        "Azure"
+      ]
+    }
+  },
+  {
+    "input": "Job Title: Software Engineer\nJob Description: Optional skills include UI development with Angular, Bootstrap. Backend experience with SpringBoot, SOA. Use of source control systems like Git, and Atlassian tools such as JIRA and Confluence. Familiarity with databases like MySQL and SQL Server. Cloud certification preferred.",
+    "output": {
+      "UI Tools": [
+        "Angular",
+        "Bootstrap"
+      ],
+      "Backend Tools": [
+        "SpringBoot",
+        "SOA"
+      ],
+      "Version Control": [
+        "Git",
+        "GitHub"
+      ],
+      "Project Tools": [
+        "JIRA",
+        "Confluence"
+      ],
+      "Databases": [
+        "MySQL",
+        "SQL Server"
+      ],
+      "Certifications": [
+        "Cloud Certification (Preferred)"
+      ]
+    }
+  }
+]
