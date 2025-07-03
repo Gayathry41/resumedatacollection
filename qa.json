@@ -1,0 +1,26 @@
+{
+  "input": "Job Title: QA Tester\nJob Description: Focus: Identifying bugs and defects through manual and automated testing. Responsibilities: Executing test cases and test scripts. Documenting defects and reporting them to developers. Verifying bug fixes. Ensuring software meets quality standards and user expectations. Skills: Attention to detail, analytical skills, communication skills, and knowledge of testing methodologies. Tools: Test management tools (e.g., Jira), bug tracking systems.",
+  "output": {
+    "Job Summary": "Responsible for identifying software bugs using manual and automated testing techniques and ensuring quality standards.",
+    "Responsibilities": [
+      "Execute test cases and scripts",
+      "Document and report defects",
+      "Verify bug fixes",
+      "Ensure quality compliance"
+    ],
+    "Soft Skills": [
+      "Attention to Detail",
+      "Analytical Thinking",
+      "Communication"
+    ],
+    "Testing Knowledge": [
+      "Testing Methodologies",
+      "Manual Testing",
+      "Automated Testing"
+    ],
+    "Tools": [
+      "Jira",
+      "Bug Tracking Systems"
+    ]
+  }
+}
