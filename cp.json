@@ -1,0 +1,21 @@
+{
+  "input": "Job Title: Computer Programmer\nJob Description: Writing and Modifying Code: Computer programmers write code in various languages (like C++, Java, Python) to implement software functionalities. They also modify existing code to fix bugs, add new features, or improve performance. Testing and Debugging: Programmers are responsible for testing their code to ensure it works as intended and for identifying and fixing any errors or bugs. Collaborating with Developers: They work closely with software developers, designers, and other IT professionals to understand requirements and ensure the software is built according to specifications. Creating Documentation: Programmers may be involved in creating documentation for the code they write, which can include user manuals or technical specifications. Maintaining and Updating Software: They ensure that existing software remains functional and up-to-date by addressing issues and incorporating new features or changes. Skills Required: Programming Languages: Proficiency in various programming languages is crucial, including Java, Python, C++, and others, depending on the specific job requirements. Problem-Solving: Computer programmers need strong problem-solving skills to identify and resolve issues in code and software. Logical Thinking: They must be able to think logically and understand complex systems to effectively design and implement solutions. Attention to Detail: Precision and attention to detail are essential for writing accurate and efficient code. Communication: Strong communication skills are necessary for collaborating with team members and communicating technical information.",
+  "output": {
+    "Job Summary": "Responsible for writing, testing, and maintaining code to meet software specifications, collaborating with development teams, and ensuring software quality and performance.",
+    "Responsibilities": [
+      "Write and modify code",
+      "Fix bugs and improve performance",
+      "Test and debug software",
+      "Collaborate with developers and designers",
+      "Create technical documentation",
+      "Maintain and update software systems"
+    ],
+    "Skills": [
+      "Proficiency in programming languages (Java, Python, C++)",
+      "Problem-solving skills",
+      "Logical thinking",
+      "Attention to detail",
+      "Communication skills"
+    ]
+  }
+}
